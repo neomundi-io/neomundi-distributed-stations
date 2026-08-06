@@ -1,3 +1,5 @@
+[← Retour à l’Observatoire IA NeoMundi](https://github.com/neomundi-io/neomundi-ai-observatory)
+
 [English](README.md) | [Français](README.fr.md)
 
 # Stations distribuées NeoMundi
